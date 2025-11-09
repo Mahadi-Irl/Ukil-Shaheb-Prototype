@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ngo-001",
+    "name": "বাংলাদেশ প্রাণী কল্যাণ সমিতি",
+    "nameEn": "Bangladesh Animal Welfare Society",
+    "type": "pet-violence",
+    "contact": "+880 1234-567890",
+    "email": "info@baws.org.bd",
+    "address": "Dhaka, Bangladesh",
+    "description": "Dedicated to protecting animals and preventing cruelty"
+  },
+  {
+    "id": "ngo-002",
+    "name": "প্রাণী অধিকার ফাউন্ডেশন",
+    "nameEn": "Animal Rights Foundation",
+    "type": "pet-violence",
+    "contact": "+880 9876-543210",
+    "email": "contact@arf.org.bd",
+    "address": "Chittagong, Bangladesh",
+    "description": "Advocating for animal rights and welfare"
+  },
+  {
+    "id": "ngo-003",
+    "name": "নারীর অধিকার সংস্থা",
+    "nameEn": "Women's Rights Organization",
+    "type": "women-issues",
+    "contact": "+880 1111-222222",
+    "email": "info@wro.org.bd",
+    "address": "Dhaka, Bangladesh",
+    "description": "Supporting women's rights and providing legal aid"
+  },
+  {
+    "id": "ngo-004",
+    "name": "মহিলা নিরাপত্তা নেটওয়ার্ক",
+    "nameEn": "Women's Safety Network",
+    "type": "women-issues",
+    "contact": "+880 3333-444444",
+    "email": "support@wsn.org.bd",
+    "address": "Sylhet, Bangladesh",
+    "description": "Ensuring women's safety and providing support services"
+  },
+  {
+    "id": "ngo-005",
+    "name": "নারী উন্নয়ন কেন্দ্র",
+    "nameEn": "Women Development Center",
+    "type": "women-issues",
+    "contact": "+880 5555-666666",
+    "email": "contact@wdc.org.bd",
+    "address": "Rajshahi, Bangladesh",
+    "description": "Empowering women through legal and social support"
+  }
+]
+
